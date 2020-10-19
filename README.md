@@ -12,7 +12,7 @@ Python
  
  
  #### Election Audit Summary
-The script could be modified to give an idea on which county to enable us to assess the popularity of the individual benefit plans offered by them to help you decide the palette of benefits that will provide in the future. This also helped find the percentage of each county for each of the candidates.
+The script could be modified to give an idea on which county to enable us to assess the popularity of the individual benefit plans offered by them to help you decide the palette of benefits that will provide in the future. This also helped find the percentage of each county for each of the candidates. You are also to see the differences of each county and the amount of votes each of the candidate.
 
    
    
