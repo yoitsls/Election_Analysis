@@ -5,6 +5,8 @@ Python
 ### Election Audit Results
 <center>
  <img src= "election_results.png">
+<center>
+<img src="election_results.png">
  
  
  
